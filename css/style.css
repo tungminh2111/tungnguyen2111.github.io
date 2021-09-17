@@ -19,7 +19,7 @@ img {
 }
 /*end reset*/
 body{
-	padding: 30px;
+	/*padding: 0px;*/
     background: #fcfcfc;
     background-size: cover;
    font-family: 'Raleway', sans-serif;

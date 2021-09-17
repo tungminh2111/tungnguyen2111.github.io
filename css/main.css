@@ -27,8 +27,8 @@ html {
     font-size: 62.5%;
 }
 body {
-    /* padding: 30px;
-    background: #2c3e50; */
+     padding: 0px;
+    background: #2c3e50; 
     color: var(--text-dark-light);
     background-size: cover;
     font-size: 1.4rem;
